@@ -1,0 +1,7 @@
+.featured-block h2{
+    text-align:center;
+}
+.featured-block .collection__description h2{
+    font-size: 35px;
+    line-height:45px;
+}
